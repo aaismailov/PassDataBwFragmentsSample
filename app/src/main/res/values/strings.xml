@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivityFragments</string>
+    <string name="create_user_btn">Создать пользователя</string>
+    <string name="main_nav">Main</string>
+    <string name="edit_nav">Edit</string>
+    <string name="info_nav">Info</string>
+    <string name="name_placeholder">Имя</string>
+    <string name="age_placeholder">Возраст</string>
+    <string name="address_placeholder">Адрес</string>
+    <string name="email_placeholder">e-mail</string>
+    <string name="save_button">сохранить</string>
+    <string name="send_button">отправить</string>
+</resources>
